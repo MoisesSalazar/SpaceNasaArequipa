@@ -1,0 +1,67 @@
+{
+  "solarSystem": {
+    "sun": {
+      "name": "Sol",
+      "radius": 0.26,
+      "image": "8k_sun.jpg"
+    },
+    "planets": [
+      {
+        "name": "Mercurio",
+        "radius": 0.383,
+        "distanceFromSun": 0.39,
+        "orbitPeriod": 0.241,
+        "image": "8k_mercury.jpg"
+      },
+      {
+        "name": "Venus",
+        "radius": 0.949,
+        "distanceFromSun": 0.72,
+        "orbitPeriod": 0.615,
+        "image": "4k_venus_atmosphere.jpg"
+      },
+      {
+        "name": "Tierra",
+        "radius": 1.000,
+        "distanceFromSun": 1.00,
+        "orbitPeriod": 1.000,
+        "image": "8k_earth_clouds.jpg"
+      },
+      {
+        "name": "Marte",
+        "radius": 0.532,
+        "distanceFromSun": 1.52,
+        "orbitPeriod": 1.881,
+        "image": "8k_mars.jpg"
+      },
+      {
+        "name": "Júpiter",
+        "radius": 11.21,
+        "distanceFromSun": 5.20,
+        "orbitPeriod": 11.86,
+        "image": "8k_jupiter.jpg"
+      },
+      {
+        "name": "Saturno",
+        "radius": 9.45,
+        "distanceFromSun": 9.58,
+        "orbitPeriod": 29.46,
+        "image": "8k_saturn.jpg"
+      },
+      {
+        "name": "Urano",
+        "radius": 4.01,
+        "distanceFromSun": 19.22,
+        "orbitPeriod": 84.01,
+        "image": "2k_uranus.jpg"
+      },
+      {
+        "name": "Neptuno",
+        "radius": 3.88,
+        "distanceFromSun": 30.05,
+        "orbitPeriod": 164.8,
+        "image": "2k_neptune.jpg"
+      }
+    ]
+  }
+}
